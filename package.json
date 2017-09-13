@@ -19,5 +19,7 @@
   },
   "homepage": "https://github.com/andrew-rayco/weird#readme",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  }
 }

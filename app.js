@@ -1,7 +1,6 @@
-var a
-
-// goes to internet and looks for a value
-
-if (a) {
-  console.log('something is there')
+function greet(name) {
+  name = name || 'Andrew'
+  console.log('Hello ' + name)
 }
+
+greet('Bob')

@@ -17,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/andrew-rayco/weird/issues"
   },
-  "homepage": "https://github.com/andrew-rayco/weird#readme"
+  "homepage": "https://github.com/andrew-rayco/weird#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
